@@ -8,4 +8,5 @@ or (if you have the newest `Docker` version)
 ```
 docker compose up
 ```
+
 ![Success result](result.png)
