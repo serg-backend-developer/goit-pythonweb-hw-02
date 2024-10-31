@@ -1,6 +1,6 @@
 ## Goit-pythonweb-hw-02.
 
-Build and run `docker-compose.yml`:
+Build containers and run `docker-compose.yml`:
 ```
 docker-compose up
 ```
